@@ -8,7 +8,7 @@ Contributors of this project are not responsible for what happens next.
 
 ### How do I get set up? ###
 
-* [Get the tools to build the system](https://bitbucket.org/padavan/rt-n56u/wiki/EN/HowToMakeFirmware) or [Download pre-built system image](https://bitbucket.org/padavan/rt-n56u/downloads)
+* [Get the tools to build the system](https://bitbucket.org/padavan/rt-n56u/wiki/EN/HowToMakeFirmware) or [Download pre-built system image](https://bitbucket.org/JackyBao/padavan/downloads)
 * Feed the device with the system image file (Follow instructions of updating your current system)
 * Perform factory reset
 * Open web browser on http://my.router to configure the services
@@ -16,7 +16,3 @@ Contributors of this project are not responsible for what happens next.
 ### Contribution guidelines ###
 
 * To be completed
-
-### HowToMakeFirmware ###
-
-https://bitbucket.org/padavan/rt-n56u/wiki/EN/HowToMakeFirmware
