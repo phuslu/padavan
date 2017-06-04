@@ -16,3 +16,7 @@ Contributors of this project are not responsible for what happens next.
 ### Contribution guidelines ###
 
 * To be completed
+
+### HowToMakeFirmware ###
+
+https://bitbucket.org/padavan/rt-n56u/wiki/EN/HowToMakeFirmware
